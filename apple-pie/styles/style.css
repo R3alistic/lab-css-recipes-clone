@@ -1,3 +1,13 @@
-body {
-    background-color: aliceblue;
+head > title {
+    margin: auto;
+    color: white;
 }
+
+body {
+    background-color: rgb(25, 107, 179);
+}
+
+.head-image {
+    background-image: url("/apple-pie/images/apple-pie.jpg");
+}
+
